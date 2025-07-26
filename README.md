@@ -1,4 +1,4 @@
-CryptoVault: Comprehensive Cryptocurrency Management Platform 
+CryptoVault: Comprehensive Cryptocurrency Management Platform :
 CryptoVault is an advanced web application designed to empower users with seamless cryptocurrency management and trading capabilities.
 Our platform combines cutting-edge technology with user-friendly features to provide a complete solution for both novice and experienced crypto enthusiasts.
 
